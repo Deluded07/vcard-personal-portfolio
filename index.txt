@@ -1,21 +1,21 @@
-vCard - Personal Portfolio
+Deluded
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Deluded
+Deluded
+Entreprenuer & Configurator
 
 Show Contacts
 
 Email
-richard@example.com
+deluded28@gmail.com.com
 
-Phone
-+1 (213) 352-2795
+Discord
+ignDeluded
 
-Birthday
-June 23, 1982
+BuiltByBit
+Deluded_
 
 Location
 Sacramento, California, USA
